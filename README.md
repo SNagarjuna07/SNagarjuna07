@@ -1,6 +1,15 @@
+<h1 align="center"> Hello 👋, I'm S Nagarjuna</h1>
+
+<h3 align="center"> 
+⚙️ Backend engineer building secure, scalable services with an emphasis on maintainability and real-world impact.
+</h3>
+ 
  # 💫 About Me:
-## Integrated MCA student with a strong focus on Java and backend development. Experienced in building real-world applications using Spring Boot and REST APIs, with growing interest in applied AI and system design.
-### Java | Spring Boot | Backend Development | AI | REST APIs
+- Integrated MCA student at Amrita Vishwa Vidyapeetham  
+- Strong focus on Java and backend development  
+- Interested in applied AI and real-world problem solving  
+- Prefer learning through hands-on project development  
+- Aim to build production-ready, scalable systems  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_nagarjun07_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/s-nagarjuna) 
