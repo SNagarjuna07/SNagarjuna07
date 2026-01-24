@@ -1,8 +1,6 @@
-Java | Spring Boot | Backend Development | AI | REST APIs 
-
-# 💫 About Me:
-## Integrated MCA student with hands-on experience in Java, Spring Boot, RESTful APIs, and database-driven applications. Interested in backend engineering, AI integration, and scalable system design. Actively building projects that solve real-world problems.
-
+ # 💫 About Me:
+## Integrated MCA student with a strong focus on Java and backend development. Experienced in building real-world applications using Spring Boot and REST APIs, with growing interest in applied AI and system design.
+### Java | Spring Boot | Backend Development | AI | REST APIs
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_nagarjun07_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/s-nagarjuna) 
