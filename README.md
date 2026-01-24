@@ -1,5 +1,7 @@
+                                                                      Java | Spring Boot | Backend Development | AI | REST APIs 
+
 # 💫 About Me:
-Computer Science student with hands-on experience in Java, Spring Boot, RESTful APIs, and database-driven applications. Interested in backend engineering, AI integration, and scalable system design. Actively building projects that solve real-world problems.
+## Integrated MCA student with hands-on experience in Java, Spring Boot, RESTful APIs, and database-driven applications. Interested in backend engineering, AI integration, and scalable system design. Actively building projects that solve real-world problems.
 
 
 ## 🌐 Socials:
