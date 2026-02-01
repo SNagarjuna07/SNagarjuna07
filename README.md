@@ -1,7 +1,7 @@
 <h1 align="center"> Hello 👋, I'm S Nagarjuna</h1>
 
 <h3 align="center"> 
-⚙️ Backend engineer building secure, scalable services with an emphasis on maintainability and real-world impact.
+⚙️ Backend engineer building secure and scalable systems with an emphasis on maintainability and real-world impact.
 </h3>
 
 ---
