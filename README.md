@@ -29,17 +29,17 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [ShortlyAI](https://github.com/SNagarjuna07/shortlyai) — URL Shortener Platform
+### 🔗 [ShortlyAI](https://github.com/SNagarjuna07/shortlyai) - URL Shortener Platform
 
 Production-grade **6-service microservices system** built on Java 25 + Spring Boot 4.
 
 **Architecture highlights:**
-- Spring Cloud Gateway — JWT pre-validation, Redis token-bucket rate limiting
+- Spring Cloud Gateway - JWT pre-validation, Redis token-bucket rate limiting
 - SAGA choreography via Kafka with compensating transactions + DLQ
-- MCP server (Model Context Protocol) — Claude AI can manage URLs via tool calls
+- MCP server (Model Context Protocol) - Claude AI can manage URLs via tool calls
 - Resilience4j circuit breakers, retries, bulkheads, time limiters
 - Prometheus + Grafana + Loki observability stack
-- GitHub Actions CI/CD → GHCR image registry
+- GitHub Actions CI/CD for unit-tests
 
 **Load test results (k6, 500 VUs):**
 ```
