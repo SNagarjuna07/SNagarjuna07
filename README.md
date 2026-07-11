@@ -4,7 +4,7 @@
 
 **Backend Engineer** - Distributed Systems · Java / Spring Boot · AI Infrastructure
 
-[LinkedIn](https://linkedin.com/in/s-nagarjuna) 
+[LinkedIn](https://linkedin.com/in/s-nagarjuna)
 
 <img src="https://img.shields.io/badge/Open%20to-Summer%202027%20SDE%20Internships-brightgreen?style=for-the-badge" />
 
@@ -20,10 +20,10 @@ I build backend systems and load-test them until they fail, on purpose, so I kno
 
 ## Highlights
 
-- Designed and load-tested a 6-service microservices platform to **1,576 req/s peak, 0% failure rate across 284,485 requests** — circuit breakers degrade latency under overload instead of dropping requests. [`shortlyai`](https://github.com/SNagarjuna07/shortlyai)
-- Built distributed transaction handling with **Kafka SAGA choreography** — no central orchestrator, failed events persisted and retried via ShedLock instead of relying on a managed DLQ. [`shortlyai`](https://github.com/SNagarjuna07/shortlyai)
-- Shipped **4 independent Spring AI services** covering streaming chat, scoped tool-calling, retrieval-augmented generation, and Model Context Protocol — each isolating one architectural pattern rather than one monolithic AI demo. [`spring-ai-chat-service`](https://github.com/SNagarjuna07/spring-ai-chat-service) · [`spring-ai-task-manager`](https://github.com/SNagarjuna07/spring-ai-task-manager) · [`spring-ai-rag-service`](https://github.com/SNagarjuna07/spring-ai-rag-service)
-- Enforced a **human-in-the-loop safety boundary** for destructive operations across two unrelated architectures (direct tool-calling and MCP) — AI can propose an action, never execute one. [`spring-ai-task-manager`](https://github.com/SNagarjuna07/spring-ai-task-manager)
+- Designed and load-tested a 6-service microservices platform to **1,576 req/s peak, 0% failure rate across 284,485 requests** - circuit breakers degrade latency under overload instead of dropping requests. [`shortlyai`](https://github.com/SNagarjuna07/shortlyai)
+- Built distributed transaction handling with **Kafka SAGA choreography** - no central orchestrator, failed events persisted and retried via ShedLock instead of relying on a managed DLQ. [`shortlyai`](https://github.com/SNagarjuna07/shortlyai)
+- Shipped **4 independent Spring AI services** covering streaming chat, scoped tool-calling, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) - each isolating one architectural pattern rather than one monolithic AI demo. [`spring-ai-chat-service`](https://github.com/SNagarjuna07/spring-ai-chat-service) · [`spring-ai-task-manager`](https://github.com/SNagarjuna07/spring-ai-task-manager) · [`spring-ai-rag-service`](https://github.com/SNagarjuna07/spring-ai-rag-service)
+- Enforced a **human-in-the-loop safety boundary** for destructive operations across two unrelated architectures (direct tool-calling and MCP) - AI can propose an action, never execute one. [`spring-ai-task-manager`](https://github.com/SNagarjuna07/spring-ai-task-manager)
 - Load-tested a second backend to **8,000 requests, 100 concurrent users, 0.00% error rate**, designed explicitly around cache-outage and async-failure edge cases, not just the happy path. [`Food-Waste-Management`](https://github.com/SNagarjuna07/Food-Waste-Management)
 
 ---
@@ -109,12 +109,3 @@ I build backend systems and load-test them until they fail, on purpose, so I kno
 ![Lombok](https://img.shields.io/badge/Lombok-BC0A5E?style=flat-square&logo=java&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SNagarjuna07&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNagarjuna07&theme=default&hide_border=true&layout=compact&langs_count=6" height="160" />
-
-</div>
