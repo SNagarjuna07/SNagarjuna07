@@ -6,22 +6,24 @@
 
 [LinkedIn](https://linkedin.com/in/s-nagarjuna) 
 
+<img src="https://img.shields.io/badge/Open%20to-Summer%202027%20SDE%20Internships-brightgreen?style=for-the-badge" />
+
 </div>
 
 ---
 
 ## About
 
-I build backend systems and load-test them until they fail, on purpose, so I know exactly how they degrade. Integrated MCA student at Amrita Vishwa Vidyapeetham. Focus: microservices architecture, resilience engineering, and applied AI infrastructure (RAG, tool-calling agents, MCP).
+I build backend systems and load-test them until they fail, on purpose, so I know exactly how they degrade. Integrated MCA student at Amrita Vishwa Vidyapeetham, seeking a **Summer 2027 Software Engineering Internship**. Focus: microservices architecture, resilience engineering, and applied AI infrastructure (RAG, tool-calling agents, MCP).
 
 ---
 
 ## Highlights
 
-- Designed and load-tested a 6-service microservices platform to **1,576 req/s peak, 0% failure rate across 284,485 requests** - circuit breakers degrade latency under overload instead of dropping requests. [`shortlyai`](https://github.com/SNagarjuna07/shortlyai)
-- Built distributed transaction handling with **Kafka SAGA choreography** - no central orchestrator, failed events persisted and retried via ShedLock instead of relying on a managed DLQ. [`shortlyai`](https://github.com/SNagarjuna07/shortlyai)
-- Shipped **4 independent Spring AI services** covering streaming chat, scoped tool-calling, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP) - each isolating one architectural pattern rather than one monolithic AI demo. [`spring-ai-chat-service`](https://github.com/SNagarjuna07/spring-ai-chat-service) · [`spring-ai-task-manager`](https://github.com/SNagarjuna07/spring-ai-task-manager) · [`spring-ai-rag-service`](https://github.com/SNagarjuna07/spring-ai-rag-service)
-- Enforced a **human-in-the-loop safety boundary** for destructive operations across two unrelated architectures (direct tool-calling and MCP) - AI can propose an action, never execute one. [`spring-ai-task-manager`](https://github.com/SNagarjuna07/spring-ai-task-manager)
+- Designed and load-tested a 6-service microservices platform to **1,576 req/s peak, 0% failure rate across 284,485 requests** — circuit breakers degrade latency under overload instead of dropping requests. [`shortlyai`](https://github.com/SNagarjuna07/shortlyai)
+- Built distributed transaction handling with **Kafka SAGA choreography** — no central orchestrator, failed events persisted and retried via ShedLock instead of relying on a managed DLQ. [`shortlyai`](https://github.com/SNagarjuna07/shortlyai)
+- Shipped **4 independent Spring AI services** covering streaming chat, scoped tool-calling, retrieval-augmented generation, and Model Context Protocol — each isolating one architectural pattern rather than one monolithic AI demo. [`spring-ai-chat-service`](https://github.com/SNagarjuna07/spring-ai-chat-service) · [`spring-ai-task-manager`](https://github.com/SNagarjuna07/spring-ai-task-manager) · [`spring-ai-rag-service`](https://github.com/SNagarjuna07/spring-ai-rag-service)
+- Enforced a **human-in-the-loop safety boundary** for destructive operations across two unrelated architectures (direct tool-calling and MCP) — AI can propose an action, never execute one. [`spring-ai-task-manager`](https://github.com/SNagarjuna07/spring-ai-task-manager)
 - Load-tested a second backend to **8,000 requests, 100 concurrent users, 0.00% error rate**, designed explicitly around cache-outage and async-failure edge cases, not just the happy path. [`Food-Waste-Management`](https://github.com/SNagarjuna07/Food-Waste-Management)
 
 ---
@@ -36,6 +38,14 @@ I build backend systems and load-test them until they fail, on purpose, so I kno
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+
+**AI / LLM**
+
+![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-A259FF?style=flat-square&logo=anthropic&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-336791?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq%20Llama%203.3-F55036?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 **Auth & Security**
 
@@ -66,14 +76,6 @@ I build backend systems and load-test them until they fail, on purpose, so I kno
 ![Time Limiter](https://img.shields.io/badge/Time%20Limiter-4B0082?style=flat-square&logo=statuspage&logoColor=white)
 ![ShedLock](https://img.shields.io/badge/ShedLock-006400?style=flat-square&logo=spring&logoColor=white)
 ![Eureka](https://img.shields.io/badge/Netflix%20Eureka-6DB33F?style=flat-square&logo=spring&logoColor=white)
-
-**AI / LLM**
-
-![Spring AI](https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-A259FF?style=flat-square&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-336791?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq%20Llama%203.3-F55036?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 
 **API & Docs**
 
